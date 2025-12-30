@@ -1,0 +1,200 @@
+[
+  {
+    "id": "93d3d0c6-2a5f-4a9e-b6c1-9f3a2e7a5b31",
+    "name": "Create dashboard layout",
+    "key": "TASK-002",
+    "description": "Зверстати основний дешборд. Має бути продумане адаптивне розташування основних блоків та зручна навігація. Дизайн повинен відповідати актуальним UI-гайдлайнам проєкту.",
+    "status": "backlog",
+    "labels": [
+      "frontend",
+      "feature"
+    ]
+  },
+  {
+    "id": "a1f5b0c2-1e3f-4c2a-9e0d-5f3a0b1e8c7a",
+    "name": "Add payment loader",
+    "key": "TASK-003",
+    "description": "Показати лоадер під час створення платежу. Це допоможе користувачам зрозуміти, що система обробляє їхню дію. Також потрібно забезпечити коректне приховування лоадера у випадку помилки.",
+    "status": "backlog",
+    "labels": [
+      "frontend",
+      "feature"
+    ]
+  },
+  {
+    "id": "f9b2c3d1-6e4a-4c1d-8e3a-7c1b2f3d4e5f",
+    "name": "Mobile navigation fix22",
+    "key": "TASK-004",
+    "description": "Поправити меню на мобільних пристроях. Зараз частина елементів відображається некоректно, що ускладнює роботу користувача. Потрібно забезпечити плавну взаємодію та повну адаптивність.",
+    "status": "in_progress",
+    "labels": [
+      "frontend"
+    ]
+  },
+  {
+    "id": "e4f7a2c3-5d6b-4a1e-9f2c-3d1e5f6a7b8c",
+    "name": "SEO meta tags",
+    "key": "TASK-005",
+    "description": "Додати meta теги для SEO. Це покращить видимість сторінок у пошукових системах та допоможе збільшити органічний трафік. Потрібно передбачити можливість динамічної зміни тегів залежно від контенту.",
+    "status": "in_progress",
+    "labels": [
+      "feature"
+    ]
+  },
+  {
+    "id": "b6c1d2e3-7f4a-4e5d-8c2a-1e9f3a7b5d6c",
+    "name": "Optimize images",
+    "key": "TASK-006",
+    "description": "Оптимізувати зображення на лендингу. Вони завантажуються занадто повільно та негативно впливають на продуктивність сторінки. Необхідно зменшити розмір файлів без втрати якості та додати сучасні формати.",
+    "status": "in_progress",
+    "labels": [
+      "backend"
+    ]
+  },
+  {
+    "id": "c2d3e4f5-8b9a-4c1e-9f0a-3e2d1c4b5a6f",
+    "name": "Remove legacy styles",
+    "key": "TASK-007",
+    "description": "Видалити старі стилі. Вони більше не використовуються та ускладнюють підтримку проєкту. Також це допоможе зменшити розмір CSS і прискорити завантаження сторінок.",
+    "status": "done",
+    "labels": [
+      "backend"
+    ]
+  },
+  {
+    "id": "d1e2f3a4-5b6c-4e7d-9a8b-2c3d4e5f6a7b",
+    "name": "Accessibility improvements",
+    "key": "TASK-008",
+    "description": "Покращити доступність елементів. Деякі компоненти не відповідають стандартам WCAG і не озвучуються скрінрідерами. Необхідно додати ARIA-атрибути та покращити клавіатурну навігацію.",
+    "status": "done",
+    "labels": [
+      "feature"
+    ]
+  },
+  {
+    "id": "e5f6a7b8-9c0d-4e1f-8a2b-3c4d5e6f7a8b",
+    "name": "Form error handling",
+    "key": "TASK-009",
+    "description": "Покращити обробку помилок форм. Наразі помилки відображаються не завжди коректно, що плутає користувачів. Потрібно уніфікувати формат повідомлень та забезпечити їх консистентність у різних формах.",
+    "status": "done",
+    "labels": [
+      "frontend",
+      "bug"
+    ]
+  },
+  {
+    "id": "c2d40740-10da-4d9d-8d65-34788d92e7ce",
+    "name": "Implement user profile page",
+    "key": "TASK-010",
+    "description": "Додати нову функціональність згідно вимог та перевірити сумісність з існуючим UI.",
+    "status": "done",
+    "labels": [
+      "backend",
+      "bug",
+      "urgent"
+    ]
+  },
+  {
+    "id": "18af2343-1a33-4808-b099-bf47e921e066",
+    "name": "Refactor API client",
+    "key": "TASK-011",
+    "description": "Додати нову функціональність згідно вимог та перевірити сумісність з існуючим UI.",
+    "status": "in_progress",
+    "labels": [
+      "backend"
+    ]
+  },
+  {
+    "id": "50eeaed9-7176-4f80-b292-3c5409d0811c",
+    "name": "Fix flaky unit tests",
+    "key": "TASK-012",
+    "description": "Виправити помилки, що зʼявляються в edge-кейсах. Додати тести.",
+    "status": "done",
+    "labels": [
+      "bug"
+    ]
+  },
+  {
+    "id": "11d098fb-74ab-4cb3-8f5f-ff62d7cc04cf",
+    "name": "Add dark mode toggle",
+    "key": "TASK-013",
+    "description": "Покращити UX для мобільних пристроїв, перевірити адаптивність.",
+    "status": "backlog",
+    "labels": [
+      "bug"
+    ]
+  },
+  {
+    "id": "60182d9f-aa2b-425c-b919-234ad7d3e817",
+    "name": "Improve error logging",
+    "key": "TASK-014",
+    "description": "Провести рефакторинг та прибрати дублювання коду. Оновити документацію.",
+    "status": "in_progress",
+    "labels": [
+      "frontend"
+    ]
+  },
+  {
+    "id": "d8c298f2-204d-402c-a06d-10b6baf143d4",
+    "name": "Create onboarding checklist",
+    "key": "TASK-015",
+    "description": "Оптимізувати продуктивність, зменшити час відповіді та кількість зайвих рендерів.",
+    "status": "in_progress",
+    "labels": [
+      "feature"
+    ]
+  },
+  {
+    "id": "03637f75-91a6-40e3-868d-2373e49c0a89",
+    "name": "Optimize database queries",
+    "key": "TASK-016",
+    "description": "Оптимізувати продуктивність, зменшити час відповіді та кількість зайвих рендерів.",
+    "status": "done",
+    "labels": [
+      "backend",
+      "urgent"
+    ]
+  },
+  {
+    "id": "31c43774-af7a-48df-9483-d9d99adc3b72",
+    "name": "Add webhook retries",
+    "key": "TASK-017",
+    "description": "Провести рефакторинг та прибрати дублювання коду. Оновити документацію.",
+    "status": "backlog",
+    "labels": [
+      "feature"
+    ]
+  },
+  {
+    "id": "9cdbc5f9-30e4-4f4c-b456-748094d4edb1",
+    "name": "Polish button states",
+    "key": "TASK-018",
+    "description": "Додати нову функціональність згідно вимог та перевірити сумісність з існуючим UI.",
+    "status": "backlog",
+    "labels": [
+      "urgent"
+    ]
+  },
+  {
+    "id": "34bede81-a1a6-4930-bde1-9e13681a23cf",
+    "name": "Update dependencies",
+    "key": "TASK-019",
+    "description": "Покращити UX для мобільних пристроїв, перевірити адаптивність.",
+    "status": "backlog",
+    "labels": [
+      "feature"
+    ]
+  },
+  {
+    "id": "03d8cf3f-11dd-4331-918c-c4b643bfca62",
+    "name": "Add rate limiting",
+    "key": "TASK-020",
+    "description": "Додати нову функціональність згідно вимог та перевірити сумісність з існуючим UI.",
+    "status": "in_progress",
+    "labels": [
+      "backend",
+      "bug",
+      "feature"
+    ]
+  }
+]
