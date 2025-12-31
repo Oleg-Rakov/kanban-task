@@ -1,16 +1,5 @@
 [
   {
-    "id": "93d3d0c6-2a5f-4a9e-b6c1-9f3a2e7a5b31",
-    "name": "Create dashboard layout",
-    "key": "TASK-002",
-    "description": "Зверстати основний дешборд. Має бути продумане адаптивне розташування основних блоків та зручна навігація. Дизайн повинен відповідати актуальним UI-гайдлайнам проєкту.",
-    "status": "backlog",
-    "labels": [
-      "frontend",
-      "feature"
-    ]
-  },
-  {
     "id": "a1f5b0c2-1e3f-4c2a-9e0d-5f3a0b1e8c7a",
     "name": "Add payment loader",
     "key": "TASK-003",
